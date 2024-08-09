@@ -23,7 +23,7 @@ Link : https://pixabay.com/api/
 
 ## How to use the Project
 
-1. Download or clone the repository `git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git`
+1. Download or clone the repository 
 2. Go to the directory
 3. Open the terminal, and type `npm start`
 4. After application opens, there are two search input, one is asking for image title and second one is for number of images.
@@ -31,4 +31,4 @@ Link : https://pixabay.com/api/
 
 
 ## Live Demo:
-
+https://image-finder-mauve.vercel.app/
