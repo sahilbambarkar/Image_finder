@@ -26,7 +26,7 @@ const footerStyle = {
 	color: 'white', // Text color
 	position: 'relative',
 	bottom: 0,
-	width: '100%',
+	width: '50%',
 	transition: 'background-color 0.3s ease', // Smooth transition for background color
 };
 
