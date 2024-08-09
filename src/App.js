@@ -22,7 +22,7 @@ import {
 const footerStyle = {
 	padding: '10px',
 	textAlign: 'center',
-	backgroundColor: '#4a90e2', // Background color
+	backgroundColor: '#445A6F', // Background color
 	color: 'white', // Text color
 	position: 'relative',
 	bottom: 0,
