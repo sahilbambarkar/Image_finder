@@ -95,7 +95,7 @@ const App = () => {
 			<footer style={{ ...footerStyle, ...fadeInAnimation }}>
 				<h3>
 					<a
-						href="mailto:your-sahilbambarkar007@gmail.com"
+						href="mailto:sahilbambarkar007@gmail.com"
 						style={footerLinkStyle}
 						onMouseOver={(e) => e.currentTarget.style = footerLinkHoverStyle}
 						onMouseOut={(e) => e.currentTarget.style = footerLinkStyle}
